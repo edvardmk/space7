@@ -1,0 +1,1176 @@
+{
+    "links": [
+        {
+            "source": "Julian",
+            "target": "Datenschutz Tagung",
+            "value": 3
+        },
+        {
+            "source": "Michael",
+            "target": "Datenschutz Tagung",
+            "value": 1
+        },
+        {
+            "source": "Max",
+            "target": "Datenschutz Tagung",
+            "value": 1
+        },
+        {
+            "source": "Lena",
+            "target": "Datenschutz Tagung",
+            "value": 1
+        },
+        {
+            "source": "Helga",
+            "target": "Prozessbegleitung Tasks & Teams",
+            "value": 3
+        },
+        {
+            "source": "Kerstin",
+            "target": "Prozessbegleitung Tasks & Teams",
+            "value": 1
+        },
+        {
+            "source": "Markus",
+            "target": "Prozessbegleitung Tasks & Teams",
+            "value": 1
+        },
+        {
+            "source": "Marianne",
+            "target": "Prozessbegleitung Tasks & Teams",
+            "value": 1
+        },
+        {
+            "source": "Bernd",
+            "target": "Prozessbegleitung Tasks & Teams",
+            "value": 1
+        },
+        {
+            "source": "Bernd",
+            "target": "Keynote Speech IT Campus",
+            "value": 3
+        },
+        {
+            "source": "Helga",
+            "target": "Keynote Speech IT Campus",
+            "value": 1
+        },
+        {
+            "source": "Helga",
+            "target": "Change Summit",
+            "value": 3
+        },
+        {
+            "source": "David",
+            "target": "Phase 1 NGT",
+            "value": 3
+        },
+        {
+            "source": "Maria",
+            "target": "Phase 1 NGT",
+            "value": 1
+        },
+        {
+            "source": "Maren",
+            "target": "Phase 1 NGT",
+            "value": 1
+        },
+        {
+            "source": "Anton",
+            "target": "Phase 1 NGT",
+            "value": 1
+        },
+        {
+            "source": "Lisa",
+            "target": "Phase 1 NGT",
+            "value": 1
+        },
+        {
+            "source": "Franz",
+            "target": "Phase 1 NGT",
+            "value": 1
+        },
+        {
+            "source": "Maria",
+            "target": "Phase 1 NGT",
+            "value": 1
+        },
+        {
+            "source": "Hannah",
+            "target": "Phase 1 NGT",
+            "value": 1
+        },
+        {
+            "source": "Arnold",
+            "target": "Kamera und Schnitt für New Horizons Trailer",
+            "value": 3
+        },
+        {
+            "source": "Arnold",
+            "target": "Kundenakquise",
+            "value": 3
+        },
+        {
+            "source": "Hubert",
+            "target": "Workshopmoderation",
+            "value": 3
+        },
+        {
+            "source": "Mareike",
+            "target": "Webdesign für New Horizons",
+            "value": 3
+        },
+        {
+            "source": "Franz",
+            "target": "Patentrecherche Innovationsberatungmethoden",
+            "value": 3
+        },
+        {
+            "source": "Maria",
+            "target": "Patentrecherche Innovationsberatungmethoden",
+            "value": 1
+        },
+        {
+            "source": "Lukas",
+            "target": "Patentrecherche Innovationsberatungmethoden",
+            "value": 1
+        },
+        {
+            "source": "David",
+            "target": "Entwicklung der Innovationsmodule",
+            "value": 3
+        },
+        {
+            "source": "Markus",
+            "target": "Entwicklung der Innovationsmodule",
+            "value": 1
+        },
+        {
+            "source": "Nico",
+            "target": "Entwicklung der Innovationsmodule",
+            "value": 1
+        },
+        {
+            "source": "Helga",
+            "target": "Entwicklung der Innovationsmodule",
+            "value": 1
+        },
+        {
+            "source": "Patrick",
+            "target": "Purpose Pilotworkshop",
+            "value": 3
+        },
+        {
+            "source": "Bernd",
+            "target": "Purpose Pilotworkshop",
+            "value": 1
+        },
+        {
+            "source": "Birgit",
+            "target": "Purpose Pilotworkshop",
+            "value": 1
+        },
+        {
+            "source": "Peter",
+            "target": "Purpose Pilotworkshop",
+            "value": 1
+        },
+        {
+            "source": "Julian",
+            "target": "Scrum Master Training",
+            "value": 3
+        },
+        {
+            "source": "Julian",
+            "target": "Beratung der Geschäftsführung",
+            "value": 3
+        },
+        {
+            "source": "Hubert",
+            "target": "Supply Chain Management Training",
+            "value": 3
+        },
+        {
+            "source": "Julian",
+            "target": "Supply Chain Management Training",
+            "value": 1
+        },
+        {
+            "source": "Gloria",
+            "target": "Supply Chain Management Training",
+            "value": 1
+        },
+        {
+            "source": "Marianne",
+            "target": "Supply Chain Management Training",
+            "value": 1
+        },
+        {
+            "source": "Jonas",
+            "target": "Supply Chain Management Training",
+            "value": 1
+        },
+        {
+            "source": "Julian",
+            "target": "Transformationssparring",
+            "value": 3
+        },
+        {
+            "source": "Julian",
+            "target": "Führungsbegleitung",
+            "value": 3
+        },
+        {
+            "source": "Marianne",
+            "target": "Leadership Hacks",
+            "value": 3
+        },
+        {
+            "source": "Julian",
+            "target": "GF Klausurtagung",
+            "value": 3
+        },
+        {
+            "source": "Bernd",
+            "target": "Network Marketing Convention",
+            "value": 3
+        },
+        {
+            "source": "Nico",
+            "target": "Network Marketing Convention",
+            "value": 1
+        },
+        {
+            "source": "Walter",
+            "target": "Network Marketing Convention",
+            "value": 1
+        },
+        {
+            "source": "Helga",
+            "target": "Leadership Development",
+            "value": 3
+        },
+        {
+            "source": "Max",
+            "target": "Executive Coaching Tag 1",
+            "value": 3
+        },
+        {
+            "source": "Maria",
+            "target": "Vortrag Achtsamkeit im Unternehmensalltag",
+            "value": 3
+        },
+        {
+            "source": "Laura",
+            "target": "Vortrag Achtsamkeit im Unternehmensalltag",
+            "value": 1
+        },
+        {
+            "source": "David",
+            "target": "FMEA Workshop",
+            "value": 3
+        },
+        {
+            "source": "Tanja",
+            "target": "FMEA Workshop",
+            "value": 1
+        },
+        {
+            "source": "Walter",
+            "target": "FMEA Workshop",
+            "value": 1
+        },
+        {
+            "source": "Julian",
+            "target": "Akademie Theory U",
+            "value": 3
+        },
+        {
+            "source": "Sebastian",
+            "target": "Akademie Theory U",
+            "value": 1
+        },
+        {
+            "source": "Laura",
+            "target": "Einsicht Bild",
+            "value": 3
+        },
+        {
+            "source": "Markus",
+            "target": "Einsicht Bild",
+            "value": 1
+        },
+        {
+            "source": "Julian",
+            "target": "Agility Meetings",
+            "value": 3
+        },
+        {
+            "source": "Richard",
+            "target": "Agility Meetings",
+            "value": 1
+        },
+        {
+            "source": "Laura",
+            "target": "Gruppencoaching Abteilung 5",
+            "value": 3
+        },
+        {
+            "source": "Kerstin",
+            "target": "Weiterführendes Persönlichkeitscoaching",
+            "value": 3
+        },
+        {
+            "source": "Julian",
+            "target": "Leitungscoaching und Führungsmoderation",
+            "value": 3
+        },
+        {
+            "source": "Lena",
+            "target": "Qulitätssicherungs Training",
+            "value": 3
+        },
+        {
+            "source": "Gloria",
+            "target": "Qulitätssicherungs Training",
+            "value": 1
+        },
+        {
+            "source": "Petra",
+            "target": "Qulitätssicherungs Training",
+            "value": 1
+        },
+        {
+            "source": "Gloria",
+            "target": "Konzeption und Workshopmoderation",
+            "value": 3
+        },
+        {
+            "source": "Lena",
+            "target": "Workshop für Digital/IT und GT Implementation Team",
+            "value": 3
+        },
+        {
+            "source": "Gloria",
+            "target": "Workshop für Digital/IT und GT Implementation Team",
+            "value": 1
+        },
+        {
+            "source": "Kerstin",
+            "target": "Organisationsentwicklung Hana AG",
+            "value": 3
+        },
+        {
+            "source": "Anton",
+            "target": "Organisationsentwicklung Hana AG",
+            "value": 1
+        },
+        {
+            "source": "Helga",
+            "target": "Organisationsentwicklung Hana AG",
+            "value": 1
+        },
+        {
+            "source": "Maren",
+            "target": "Organisationsentwicklung Hana AG",
+            "value": 1
+        },
+        {
+            "source": "Maria",
+            "target": "Design Thinking Netzwerktreffen",
+            "value": 3
+        },
+        {
+            "source": "Nico",
+            "target": "Design Thinking Netzwerktreffen",
+            "value": 1
+        },
+        {
+            "source": "Maria",
+            "target": "Design Thinking Practicioner",
+            "value": 3
+        },
+        {
+            "source": "Nico",
+            "target": "Design Thinking Practicioner",
+            "value": 1
+        },
+        {
+            "source": "Julian",
+            "target": "Einzelcoaching Anna",
+            "value": 3
+        },
+        {
+            "source": "Anton",
+            "target": "TED 2020",
+            "value": 3
+        },
+        {
+            "source": "Gloria",
+            "target": "TED 2020",
+            "value": 1
+        },
+        {
+            "source": "Maren",
+            "target": "TED 2020",
+            "value": 1
+        },
+        {
+            "source": "Bruno",
+            "target": "TED 2020",
+            "value": 1
+        },
+        {
+            "source": "Helga",
+            "target": "TED 2020",
+            "value": 1
+        },
+        {
+            "source": "Birgit",
+            "target": "TED 2020",
+            "value": 1
+        },
+        {
+            "source": "Mareike",
+            "target": "TED 2020",
+            "value": 1
+        },
+        {
+            "source": "Anton",
+            "target": "Leadership Initiative",
+            "value": 3
+        },
+        {
+            "source": "Bruno",
+            "target": "Leadership Initiative",
+            "value": 1
+        },
+        {
+            "source": "Bernd",
+            "target": "Leadership Initiative",
+            "value": 1
+        },
+        {
+            "source": "Walter",
+            "target": "Leadership Initiative",
+            "value": 1
+        },
+        {
+            "source": "Anton",
+            "target": "Phase 4 Next Wave",
+            "value": 3
+        },
+        {
+            "source": "Bruno",
+            "target": "Phase 4 Next Wave",
+            "value": 1
+        },
+        {
+            "source": "Arnold",
+            "target": "LevelUP! 2020",
+            "value": 3
+        },
+        {
+            "source": "Arnold",
+            "target": "Learning Journey Hamburg",
+            "value": 3
+        },
+        {
+            "source": "Anton",
+            "target": "Impulsvortrag Compliance",
+            "value": 3
+        },
+        {
+            "source": "Bernd",
+            "target": "Impulsvortrag Compliance",
+            "value": 1
+        },
+        {
+            "source": "Anna",
+            "target": "Impulsvortrag Compliance",
+            "value": 1
+        },
+        {
+            "source": "Anton",
+            "target": "Begleitung Transformation Office",
+            "value": 3
+        },
+        {
+            "source": "Bernd",
+            "target": "Begleitung Transformation Office",
+            "value": 1
+        },
+        {
+            "source": "Birgit",
+            "target": "Begleitung Transformation Office",
+            "value": 1
+        },
+        {
+            "source": "Bruno",
+            "target": "Begleitung Transformation Office",
+            "value": 1
+        },
+        {
+            "source": "Franz",
+            "target": "Agile Company Culture Meeting",
+            "value": 3
+        },
+        {
+            "source": "David",
+            "target": "Agile Company Culture Meeting",
+            "value": 1
+        },
+        {
+            "source": "Gloria",
+            "target": "Agile Company Culture Meeting",
+            "value": 1
+        },
+        {
+            "source": "Hannah",
+            "target": "Agile Company Culture Meeting",
+            "value": 1
+        },
+        {
+            "source": "Helga",
+            "target": "Agile Company Culture Meeting",
+            "value": 1
+        },
+        {
+            "source": "Lukas",
+            "target": "Agile Company Culture Meeting",
+            "value": 1
+        },
+        {
+            "source": "Birgit",
+            "target": "Agile Company Culture Meeting",
+            "value": 1
+        },
+        {
+            "source": "Lisa",
+            "target": "Agile Company Culture Meeting",
+            "value": 1
+        },
+        {
+            "source": "Franz",
+            "target": "Plant Management Amsterdam Berlin",
+            "value": 3
+        },
+        {
+            "source": "Franz",
+            "target": "DACH Management",
+            "value": 3
+        },
+        {
+            "source": "Kerstin",
+            "target": "DACH Management",
+            "value": 1
+        },
+        {
+            "source": "Lukas",
+            "target": "DACH Management",
+            "value": 1
+        },
+        {
+            "source": "Franz",
+            "target": "Inprint Richtlinien recherchieren",
+            "value": 3
+        },
+        {
+            "source": "David",
+            "target": "Inprint Richtlinien recherchieren",
+            "value": 1
+        },
+        {
+            "source": "Birgit",
+            "target": "Inprint Richtlinien recherchieren",
+            "value": 1
+        },
+        {
+            "source": "Lisa",
+            "target": "Agile Arbeitskultur",
+            "value": 3
+        },
+        {
+            "source": "Bruno",
+            "target": "Agile Arbeitskultur",
+            "value": 1
+        },
+        {
+            "source": "Helga",
+            "target": "Agile Arbeitskultur",
+            "value": 1
+        },
+        {
+            "source": "Franz",
+            "target": "Asia Pacific Logistik",
+            "value": 3
+        },
+        {
+            "source": "Hubert",
+            "target": "Asia Pacific Logistik",
+            "value": 1
+        },
+        {
+            "source": "Hubert",
+            "target": "Ideensparring New Horizons",
+            "value": 3
+        },
+        {
+            "source": "Jonas",
+            "target": "Projekt Kolumbus",
+            "value": 3
+        },
+        {
+            "source": "Bernd",
+            "target": "Projekt Kolumbus",
+            "value": 1
+        },
+        {
+            "source": "Julian",
+            "target": "Business Forum 2020",
+            "value": 3
+        },
+        {
+            "source": "Lena",
+            "target": "Business Forum 2020",
+            "value": 1
+        },
+        {
+            "source": "Laura",
+            "target": "Business Forum 2020",
+            "value": 1
+        },
+        {
+            "source": "Kerstin",
+            "target": "Business Forum 2020",
+            "value": 1
+        },
+        {
+            "source": "Gloria",
+            "target": "Business Forum 2020",
+            "value": 1
+        },
+        {
+            "source": "Andreas",
+            "target": "Business Forum 2020",
+            "value": 1
+        },
+        {
+            "source": "Julian",
+            "target": "Implementierung der VTS Strategie",
+            "value": 3
+        },
+        {
+            "source": "Kerstin",
+            "target": "Implementierung der VTS Strategie",
+            "value": 1
+        },
+        {
+            "source": "Gloria",
+            "target": "Dual Prozessberatung Aachen",
+            "value": 3
+        },
+        {
+            "source": "Hubert",
+            "target": "Dual Prozessberatung Aachen",
+            "value": 1
+        },
+        {
+            "source": "Alex",
+            "target": "Database Fundamentals Course",
+            "value": 3
+        },
+        {
+            "source": "Alex",
+            "target": "User Interface Makeover",
+            "value": 3
+        },
+        {
+            "source": "Franz",
+            "target": "Plant Management Amsterdam",
+            "value": 3
+        },
+        {
+            "source": "Franz",
+            "target": "AGB Update veröffentlichen",
+            "value": 3
+        }
+    ],
+    "nodes": [
+        {
+            "id": "Datenschutz Tagung",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "Julian",
+            "type": 0,
+            "group": 3
+        },
+        {
+            "id": "Michael",
+            "type": 0,
+            "group": 2
+        },
+        {
+            "id": "Max",
+            "type": 0,
+            "group": 3
+        },
+        {
+            "id": "Lena",
+            "type": 0,
+            "group": 3
+        },
+        {
+            "id": "Prozessbegleitung Tasks & Teams",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "Helga",
+            "type": 0,
+            "group": 3
+        },
+        {
+            "id": "Kerstin",
+            "type": 0,
+            "group": 3
+        },
+        {
+            "id": "Markus",
+            "type": 0,
+            "group": 2
+        },
+        {
+            "id": "Marianne",
+            "type": 0,
+            "group": 3
+        },
+        {
+            "id": "Bernd",
+            "type": 0,
+            "group": 3
+        },
+        {
+            "id": "Keynote Speech IT Campus",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "Change Summit",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "Phase 1 NGT",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "David",
+            "type": 0,
+            "group": 3
+        },
+        {
+            "id": "Maria",
+            "type": 0,
+            "group": 3
+        },
+        {
+            "id": "Maren",
+            "type": 0,
+            "group": 2
+        },
+        {
+            "id": "Anton",
+            "type": 0,
+            "group": 3
+        },
+        {
+            "id": "Lisa",
+            "type": 0,
+            "group": 3
+        },
+        {
+            "id": "Franz",
+            "type": 0,
+            "group": 3
+        },
+        {
+            "id": "Hannah",
+            "type": 0,
+            "group": 2
+        },
+        {
+            "id": "Kamera und Schnitt für New Horizons Trailer",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "Arnold",
+            "type": 0,
+            "group": 3
+        },
+        {
+            "id": "Kundenakquise",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "Workshopmoderation",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "Hubert",
+            "type": 0,
+            "group": 3
+        },
+        {
+            "id": "Webdesign für New Horizons",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "Mareike",
+            "type": 0,
+            "group": 3
+        },
+        {
+            "id": "Patentrecherche Innovationsberatungmethoden",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "Lukas",
+            "type": 0,
+            "group": 2
+        },
+        {
+            "id": "Entwicklung der Innovationsmodule",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "Nico",
+            "type": 0,
+            "group": 2
+        },
+        {
+            "id": "Purpose Pilotworkshop",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "Patrick",
+            "type": 0,
+            "group": 3
+        },
+        {
+            "id": "Birgit",
+            "type": 0,
+            "group": 2
+        },
+        {
+            "id": "Peter",
+            "type": 0,
+            "group": 2
+        },
+        {
+            "id": "Scrum Master Training",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "Beratung der Geschäftsführung",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "Supply Chain Management Training",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "Gloria",
+            "type": 0,
+            "group": 3
+        },
+        {
+            "id": "Jonas",
+            "type": 0,
+            "group": 3
+        },
+        {
+            "id": "Transformationssparring",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "Führungsbegleitung",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "Leadership Hacks",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "GF Klausurtagung",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "Network Marketing Convention",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "Walter",
+            "type": 0,
+            "group": 2
+        },
+        {
+            "id": "Leadership Development",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "Executive Coaching Tag 1",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "Vortrag Achtsamkeit im Unternehmensalltag",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "Laura",
+            "type": 0,
+            "group": 3
+        },
+        {
+            "id": "FMEA Workshop",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "Tanja",
+            "type": 0,
+            "group": 2
+        },
+        {
+            "id": "Akademie Theory U",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "Sebastian",
+            "type": 0,
+            "group": 2
+        },
+        {
+            "id": "Einsicht Bild",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "Agility Meetings",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "Richard",
+            "type": 0,
+            "group": 2
+        },
+        {
+            "id": "Gruppencoaching Abteilung 5",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "Weiterführendes Persönlichkeitscoaching",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "Leitungscoaching und Führungsmoderation",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "Qulitätssicherungs Training",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "Petra",
+            "type": 0,
+            "group": 2
+        },
+        {
+            "id": "Konzeption und Workshopmoderation",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "Workshop für Digital/IT und GT Implementation Team",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "Organisationsentwicklung Hana AG",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "Design Thinking Netzwerktreffen",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "Design Thinking Practicioner",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "Einzelcoaching Anna",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "TED 2020",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "Bruno",
+            "type": 0,
+            "group": 2
+        },
+        {
+            "id": "Leadership Initiative",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "Phase 4 Next Wave",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "LevelUP! 2020",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "Learning Journey Hamburg",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "Impulsvortrag Compliance",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "Anna",
+            "type": 0,
+            "group": 2
+        },
+        {
+            "id": "Begleitung Transformation Office",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "Agile Company Culture Meeting",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "Plant Management Amsterdam Berlin",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "DACH Management",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "Inprint Richtlinien recherchieren",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "Agile Arbeitskultur",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "Asia Pacific Logistik",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "Ideensparring New Horizons",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "Projekt Kolumbus",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "Business Forum 2020",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "Andreas",
+            "type": 0,
+            "group": 2
+        },
+        {
+            "id": "Implementierung der VTS Strategie",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "Dual Prozessberatung Aachen",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "Database Fundamentals Course",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "Alex",
+            "type": 0,
+            "group": 3
+        },
+        {
+            "id": "User Interface Makeover",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "Plant Management Amsterdam",
+            "type": 1,
+            "group": 1
+        },
+        {
+            "id": "AGB Update veröffentlichen",
+            "type": 1,
+            "group": 1
+        }
+    ]
+}

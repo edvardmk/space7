@@ -1,0 +1,91 @@
+body {
+    position: relative;
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: #0d1313;
+}
+svg {
+    width: 100vw;
+    height: 100vh;
+    /* background-color: #0d1313; */
+}
+
+.loader {
+    display: inline-block;
+    width: 25vh;
+    height: 25vh;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -12.5vh 0 0 -12.5vh;
+}
+.loader:after {
+    content: ' ';
+    display: block;
+    width: 24.5vh;
+    height: 24.5vh;
+    /* margin: 8px; */
+    border-radius: 50%;
+    border: 2px solid #ffdf00;
+    border-color: #ffdf00 transparent #ffdf00 transparent;
+    animation: lds-dual-ring 1.5s linear infinite;
+}
+@keyframes lds-dual-ring {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+.hidden {
+    visibility: hidden;
+}
+.user-label,
+.project-label {
+    pointer-events: none;
+    font: 10px sans-serif;
+    fill: #aaa;
+}
+.user .user-decor {
+    visibility: hidden;
+    fill: white;
+    stroke: #1c9bd1;
+    stroke-width: 1.5px;
+}
+.user-image {
+    clip-path: circle();
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+    background-color: white;
+}
+.project-icon {
+    stroke: #ffb900;
+    stroke-width: 0;
+}
+.user:hover .user-label,
+.user:hover .user-label:hover,
+.user:hover .user-decor,
+.user:hover .user-decor:hover,
+.project:hover .project-label,
+.project:hover .project-label:hover {
+    visibility: visible;
+}
+.project:hover .project-icon {
+    stroke-width: 1.5px;
+}
+.team-level .user .user-label,
+.team-level .project .project-label,
+.focus-level .user .user-label,
+.focus-level .project .project-label {
+    visibility: visible;
+}
+.team-level .user-label,
+.team-level .project-label {
+    font: 6px sans-serif;
+}
+.focus-level .user-label,
+.focus-level .project-label {
+    font: 4px sans-serif;
+}

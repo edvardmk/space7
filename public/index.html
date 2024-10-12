@@ -1,17 +1,24 @@
 <!DOCTYPE html>
-<html lang="">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width,initial-scale=1.0">
-    <link rel="icon" href="<%= BASE_URL %>favicon.ico">
-    <title><%= htmlWebpackPlugin.options.title %></title>
-  </head>
-  <body>
-    <noscript>
-      <strong>We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
-    </noscript>
-    <div id="app"></div>
-    <!-- built files will be auto injected -->
-  </body>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+        <title>Space</title>
+        <link rel="icon" type="image/x-icon" href="ring.png" />
+        <link rel="stylesheet" type="text/css" href="style.css" />
+    </head>
+    <body>
+        <div class="loader"></div>
+        <svg></svg>
+        <!-- <button id="plus">+</button> -->
+        <!-- <button id="minus">-</button> -->
+        <!-- <button id="reset">reset</button> -->
+        <!-- <script src="https://code.jquery.com/jquery-3.4.1.js" integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU=" crossorigin="anonymous"></script> -->
+        <script src="https://d3js.org/d3.v5.js"></script>
+        <script src="getData.js"></script>
+        <script src="chart.js"></script>
+        <!-- <script src="level.js"></script> -->
+        <!-- <script src="data.js"></script> -->
+        <!-- <script src="script.js"></script> -->
+    </body>
 </html>
